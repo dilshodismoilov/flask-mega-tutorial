@@ -14,3 +14,5 @@ class Config:
     ADMINS = ['dilshod.u2310106@gmail.com']
 
     POSTS_PER_PAGE = 10
+
+    LANGUAGES = ['en', 'es']
